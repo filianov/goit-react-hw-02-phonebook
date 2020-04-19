@@ -1,0 +1,1 @@
+{"version":3,"sources":["Phonebook.module.css"],"names":[],"mappings":"AAAA,0BACE,QAAW,CACX,YAAa,CACb,WAAY,CACZ,YAAa,CACb,qBAAsB,CACtB,qBACF","file":"main.59a3f64b.chunk.css","sourcesContent":[".wrapper {\n  margin: 0px;\n  padding: 10px;\n  width: 400px;\n  display: flex;\n  flex-direction: column;\n  border: 2px solid black;\n}\n"]}
